@@ -1,3 +1,3 @@
-# remotecamera
+# mqtt-camera
 
-Remote Camera for Raspberry Pi
+MQTT Remote Camera for Raspberry Pi
